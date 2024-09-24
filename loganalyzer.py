@@ -3,6 +3,8 @@
 # September 18, 2024
 # Resources:    ex-loganalysis.py( Jenn Moody - https://courses.maine.edu/d2l/le/content/351273/viewContent/9659387/View) 
 
+# This line was added as an enhancement.
+
 def read_log(file_path):
     # Opens the file in read mode, reads all the lines, and returns the lines as a list
     with open(file_path, 'r') as file:
